@@ -96,3 +96,15 @@
     color: blue;
     font-size: 2em;
 }
+
+.roda_pe p {
+    text-align: center;
+    text-shadow: none;
+    color: black;
+    font-size: 1em;
+}
+
+.roda_pe span {
+    font-family: 'Assinatura';
+    font-size: 2em;
+}
