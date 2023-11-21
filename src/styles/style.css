@@ -1,7 +1,37 @@
 @import url(./variaveis.css);
 
+.carousel-caption {
+    background-color: rgba(255, 255, 255, 0.199);
+    backdrop-filter: blur(30px);
+    border-radius: 1em;
+    
+}
+
 .carousel-caption h5, p {
     color: var(--cor-primaria);
     font-size: var(--tamanho);
     text-shadow: 2px 2px black;
+}
+
+.col {
+    font-size: 1.5rem;
+
+}
+
+
+.Ofertas p{
+    margin-top: 1.2em;
+    font-size: 2rem;
+    color: black;
+    text-shadow: none;
+}
+
+.texto_ofertas p{
+    font-size: 2em;
+}
+
+.card-text {
+    font-size: 20px;
+    color: black;
+    text-shadow: none;
 }
