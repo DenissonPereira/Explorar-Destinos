@@ -1,0 +1,7 @@
+@import url(./variaveis.css);
+
+.carousel-caption h5, p {
+    color: var(--cor-primaria);
+    font-size: var(--tamanho);
+    text-shadow: 2px 2px black;
+}
