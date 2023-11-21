@@ -108,3 +108,10 @@
     font-family: 'Assinatura';
     font-size: 2em;
 }
+
+.card-body h5 {
+    font-family: 'Fonte1';
+    font-size: 1.5em;
+    color: green;
+    
+}
