@@ -1,4 +1,5 @@
 @import url(./variaveis.css);
+@import url(./fontes.css);
 
 .carousel-caption {
     background-color: rgba(255, 255, 255, 0.199);
@@ -64,6 +65,7 @@
 .cor1 {
     color: green;
     font-size: 2em;
+    font-family: 'Fonte1';
 }
 
 .cor2 {
