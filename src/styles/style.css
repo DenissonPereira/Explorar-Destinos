@@ -115,3 +115,11 @@
     color: green;
     
 }
+
+
+.element:hover {
+    cursor: pointer;
+    border: 5px solid green;
+    border-radius: 20px;
+    transition: .5s;
+}
