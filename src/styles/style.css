@@ -52,6 +52,12 @@
     text-shadow: none;
 }
 
+.passagens span {
+    font-weight: bold;
+    font-size: 2em;
+    color: green;
+}
+
 .hoteis p{
     margin-top: 1.2em;
     margin-bottom: 15rem;
@@ -60,12 +66,24 @@
     font-size: 2rem;
 }
 
+.hoteis span {
+    font-weight: bold;
+    font-size: 2em;
+    color: green;
+}
+
 .cruzeiro p{
     margin-top: 1.2em;
     margin-bottom: 15rem;
     font-size: 2rem;
     color: black;
     text-shadow: none;
+}
+
+.cruzeiro span {
+    font-weight: bold;
+    font-size: 2em;
+    color: green;
 }
 
 .cor1 {
