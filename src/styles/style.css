@@ -21,6 +21,7 @@
 
 .Ofertas p{
     margin-top: 1.2em;
+    margin-bottom: 15rem;
     font-size: 2rem;
     color: black;
     text-shadow: none;
@@ -34,4 +35,20 @@
     font-size: 20px;
     color: black;
     text-shadow: none;
+}
+
+.passagens p{
+    margin-top: 1.2em;
+    margin-bottom: 10rem;
+    font-size: 2rem;
+    color: black;
+    text-shadow: none;
+}
+
+.hoteis p{
+    margin-top: 1.2em;
+    margin-bottom: 10rem;
+    text-shadow: none;
+    color: black;
+    font-size: 2rem;
 }
