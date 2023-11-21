@@ -52,3 +52,14 @@
     color: black;
     font-size: 2rem;
 }
+
+.cruzeiro {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.cruzeiro p{
+    color: black;
+    text-shadow: none;
+    margin-bottom: 2rem;
+}
