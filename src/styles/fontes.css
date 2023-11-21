@@ -3,3 +3,13 @@
     font-family: 'Fonte1';
     src: url('../fonts/weekly.otf') format('opentype');
 }
+
+@font-face {
+    font-family: 'Fonte2';
+    src: url('../fonts/Butterscotch.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Assinatura';
+    src: url('../fonts/Autography.otf') format('opentype');
+}

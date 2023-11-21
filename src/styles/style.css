@@ -21,11 +21,17 @@
 
 
 .Ofertas p{
-    margin-top: 1.2em;
-    margin-bottom: 15rem;
+    margin-top: 3rem;
+    margin-bottom: 12rem;
     font-size: 2rem;
     color: black;
     text-shadow: none;
+}
+
+.Ofertas span {
+    font-weight: bold;
+    font-size: 2em;
+    color: green;
 }
 
 .texto_ofertas p{
