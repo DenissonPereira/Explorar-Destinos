@@ -39,7 +39,7 @@
 
 .passagens p{
     margin-top: 1.2em;
-    margin-bottom: 10rem;
+    margin-bottom: 15rem;
     font-size: 2rem;
     color: black;
     text-shadow: none;
@@ -47,7 +47,7 @@
 
 .hoteis p{
     margin-top: 1.2em;
-    margin-bottom: 10rem;
+    margin-bottom: 15rem;
     text-shadow: none;
     color: black;
     font-size: 2rem;
@@ -55,8 +55,18 @@
 
 .cruzeiro p{
     margin-top: 1.2em;
-    margin-bottom: 10rem;
+    margin-bottom: 15rem;
     font-size: 2rem;
     color: black;
     text-shadow: none;
+}
+
+.cor1 {
+    color: green;
+    font-size: 2em;
+}
+
+.cor2 {
+    color: blue;
+    font-size: 2em;
 }
