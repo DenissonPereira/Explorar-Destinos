@@ -176,3 +176,53 @@
     color: black;
     text-shadow: none;
 }
+
+.titulo_redes {
+    font-size: .5em;
+    text-shadow: none;
+}
+
+.figuras_redes {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.figuras_redes img {
+    width: 3em;
+    padding-right: 1em;
+    cursor: pointer;
+}
+
+.git:hover {
+    transition: .5s;
+    width: 4em;
+    filter: drop-shadow(4px 2px 2px rgb(48, 75, 48));
+    transform: rotate(360deg);
+}
+
+.face:hover {
+    transition: .5s;
+    width: 4em;
+    filter: drop-shadow(4px 4px 4px blue);
+    transform: rotate(360deg);
+}
+
+.insta:hover {
+    transition: .5s;
+    width: 4em;
+    filter: drop-shadow(4px 4px 4px rgb(255, 0, 43));
+    transform: rotate(360deg);
+}
+
+.link:hover {
+    transition: .5s;
+    width: 4em;
+    filter: drop-shadow(4px 4px 4px rgb(0, 238, 255));
+    transform: rotate(360deg);
+}
+
+.col_redes span{
+    text-shadow: none;
+}
