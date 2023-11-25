@@ -128,3 +128,9 @@
     background-color: var(--cor-footer);
     padding-bottom: 1em;
 }
+
+.roda_pe_1 p {
+    text-align: center;
+    color: black;
+    text-shadow: none;
+}
