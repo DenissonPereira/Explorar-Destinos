@@ -129,8 +129,16 @@
     padding-bottom: 1em;
 }
 
-.roda_pe_1 p {
+.roda_pe_1 {
     text-align: center;
+}
+
+.roda_pe_1 span{
     color: black;
     text-shadow: none;
+}
+
+.col_footer img {
+    width: 2em;
+
 }
