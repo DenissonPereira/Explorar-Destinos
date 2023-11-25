@@ -19,7 +19,6 @@
 
 }
 
-
 .Ofertas p{
     margin-top: 3rem;
     margin-bottom: 12rem;
@@ -97,6 +96,10 @@
     font-size: 2em;
 }
 
+.roda_pe {
+    background-color: var(--cor-footer3);
+}
+
 .roda_pe p {
     text-align: center;
     text-shadow: none;
@@ -122,4 +125,42 @@
     border: 5px solid green;
     border-radius: 20px;
     transition: .5s;
+}
+
+.roda_pe_1 {
+    background-color: var(--cor-footer1);
+    padding-bottom: 1em;
+}
+
+.roda_pe_1 {
+    text-align: center;
+}
+
+.roda_pe_1 span{
+    color: black;
+    text-shadow: none;
+}
+
+.col_footer img {
+    width: 2em;
+
+}
+
+.col_logo_abaixo {
+    font-size: .5em;
+    text-align: justify;
+}
+
+.col_logo_abaixo p {
+    color: black;
+    text-shadow: none;
+}
+
+.logo_titulo {
+    text-align: center;
+}
+
+.roda_pe_2 {
+    background-color: var(--cor-footer2);
+    padding: 1em;
 }
