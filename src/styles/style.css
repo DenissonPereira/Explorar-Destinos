@@ -1,6 +1,16 @@
 @import url(./variaveis.css);
 @import url(./fontes.css);
 
+
+body {
+    padding: 0px;
+    margin: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
 .carousel-caption {
     background-color: rgba(255, 255, 255, 0.199);
     backdrop-filter: blur(30px);
