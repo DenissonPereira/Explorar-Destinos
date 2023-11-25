@@ -19,7 +19,6 @@
 
 }
 
-
 .Ofertas p{
     margin-top: 3rem;
     margin-bottom: 12rem;
@@ -97,6 +96,10 @@
     font-size: 2em;
 }
 
+.roda_pe {
+    background-color: var(--cor-footer3);
+}
+
 .roda_pe p {
     text-align: center;
     text-shadow: none;
@@ -125,7 +128,7 @@
 }
 
 .roda_pe_1 {
-    background-color: var(--cor-footer);
+    background-color: var(--cor-footer1);
     padding-bottom: 1em;
 }
 
@@ -155,4 +158,9 @@
 
 .logo_titulo {
     text-align: center;
+}
+
+.roda_pe_2 {
+    background-color: var(--cor-footer2);
+    padding: 1em;
 }
