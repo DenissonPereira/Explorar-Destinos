@@ -123,3 +123,8 @@
     border-radius: 20px;
     transition: .5s;
 }
+
+.roda_pe_1 {
+    background-color: var(--cor-footer);
+    padding-bottom: 1em;
+}
