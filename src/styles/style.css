@@ -164,3 +164,15 @@
     background-color: var(--cor-footer2);
     padding: 1em;
 }
+
+.blog p{
+    font-size: .7em;
+    text-align: center;
+    text-shadow: none;
+}
+
+.noticias p {
+    font-size: .5em;
+    color: black;
+    text-shadow: none;
+}
