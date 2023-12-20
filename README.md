@@ -16,12 +16,11 @@ Bem-vindo à nossa agência de viagens online **"Explorar Destinos"**, onde a ma
 Dê uma espiada nas imagens abaixo para ter uma prévia visual do projeto em ação. As capturas de tela oferecem um vislumbre das principais características e do design envolvente.
 
 ### 💻 Layout web
-![Web 1](./public/web1.png) 
+![Web 1](./public/explorar.gif) 
 
-![Web 2](./public/web2.png) 
 
 ### 📱 Layout mobile
-![Mobile 1](./public/mob1.jpg) ![Mobile 2](./public/mob2.jpg)
+![Mobile 1](./public/mob1.jpeg) ![Mobile 2](./public/mob2.jpeg)
 
 ## 📚 Stack Tecnológica
 
