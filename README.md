@@ -34,6 +34,7 @@ Dê uma espiada nas imagens abaixo para ter uma prévia visual do projeto em aç
 
 - Web: `GitHub Pages`
 
+
 >## 🚨 Aguarde! Ainda não terminou!
 
 >O projeto em questão representa uma agência de viagens fictícia e é puramente didático. Não representa uma entidade real, mas todos são encorajados a utilizar e contribuir livremente para aprimorar e aprender.
