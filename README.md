@@ -46,7 +46,7 @@ Copyright (c) 2023 Denisson Pereira Santos.
 
 ## ✏️ Autor 
 
->Denisson Pereira Santos
+Denisson Pereira Santos
 
 <div> 
 <a href="https://www.instagram.com/denisson_pereira1?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
