@@ -36,7 +36,9 @@ Dê uma espiada nas imagens abaixo para ter uma prévia visual do projeto em aç
 
 >## 🚨 Aguarde! Ainda não terminou!
 
->O projeto em questão representa uma agência de viagens fictícia e é puramente didático. Não representa uma entidade real, mas todos são encorajados a utilizar e contribuir livremente para aprimorar e aprender.
+>O projeto em questão representa uma agência de viagens fictícia, cuidadosamente concebida com propósitos didáticos. Este cenário imaginário oferece uma oportunidade única para explorar e aplicar diversos conceitos relacionados a desenvolvimento web, design de interfaces e lógica de programação. Importante ressaltar que a agência de viagens em questão é uma criação fictícia e não corresponde a uma entidade real no mundo físico.
+
+>Embora fictício, o projeto foi desenvolvido com a intenção de proporcionar um ambiente de aprendizado enriquecedor. Todos os interessados são incentivados não apenas a utilizar o projeto para fins educacionais, mas também a contribuir de forma ativa. A colaboração é bem-vinda e pode abranger desde ajustes simples até implementações mais complexas, proporcionando uma experiência prática e compartilhada para o aprimoramento coletivo das habilidades e conhecimentos. O projeto serve como um campo aberto para a experimentação e o aprendizado contínuo, refletindo o espírito colaborativo da comunidade de desenvolvimento.
 
 ## 📜 Licença
 
